@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sikander16
+
 - 👀 I’m interested in microsoft office
 - 🌱 I’m currently learning microsoft
 - 💞️ I’m looking to collaborate on ...
